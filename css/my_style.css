@@ -1,11 +1,29 @@
 *{
 letter-spacing: 0.8px;
 line-height: 1.5em;
+
+}
+
+body{
+    background-color: brown(236,140,76,0.418);
+    font-family:"Noto Serif TC",sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family:"Noto Serif TC",sans-serif;
 }
 
 p.redred{
-    colord:red;
+    color: #737373;
     font-size: 40px;
     text-align: left;
-    text-indent: 2em;
+
+}
+.bulebule{
+    color:aqua;
+    font: size 30px;
+}
+
+.expedu_icon{
+    color:blue;
 }
