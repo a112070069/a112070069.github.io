@@ -4,12 +4,12 @@
     text-align: center;
 }
 *{
-letter-spacing: 0.8px;
-line-height: 1.5em;
+    letter-spacing: 0.8px;
+    line-height: 1.5em;
 }
 
 body{
-    background-color: brown(236,140,76,0.418);
+   
     font-family:"Noto Serif TC",sans-serif;
 }
 
@@ -18,20 +18,19 @@ h1,h2,h3,h4,h5,h6{
 }
 
 p.redred{
-    color: #737373;
+    color: blue;
     font-size: 40px;
-    text-align: left;
-
+    text-align: center;
 }
+
 .bulebule{
-    color:aqua;
-    font: size 30px;
+    color:blue;
+    font-size:  30px;
 }
-
 .expedu_icon{
     color:blue;
 }
 .expedu_icon:hover{
-    background-color: blueviolet;
-    color:blue;
+    background-color: blue;
+    color:white;
 }
