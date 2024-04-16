@@ -7,10 +7,11 @@
     letter-spacing: 0.8px;
     line-height: 1.5em;
 }
-
-body{
-   
-    font-family:"Noto Serif TC",sans-serif;
+.bg-primary{
+    background-color: rgb(103, 206, 172)!important;
+}
+body{   
+ font-family:"Noto Serif TC",sans-serif;
 }
 
 h1,h2,h3,h4,h5,h6{
