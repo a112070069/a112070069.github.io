@@ -9,6 +9,7 @@
 }
 .bg-primary{
     background-color: rgb(103, 206, 172)!important;
+    background-image: url(../assets/img/bg.jpeg);
 }
 body{   
  font-family:"Noto Serif TC",sans-serif;
@@ -35,3 +36,13 @@ p.redred{
     background-color: blue;
     color:white;
 }
+table.table{
+    align-items: center;
+    width:80%;
+}
+.tables{
+    border:5px solid black;
+    border-radius: 30px;
+    padding: 10px;
+}
+  
