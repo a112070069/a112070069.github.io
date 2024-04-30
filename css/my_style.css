@@ -39,6 +39,8 @@ p.redred{
 table.table{
     align-items: center;
     width:80%;
+    border-collapse: separate;
+    margin-left: 3em;
 }
 .tables{
     border:5px solid black;
